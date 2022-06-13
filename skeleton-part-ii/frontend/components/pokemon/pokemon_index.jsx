@@ -23,7 +23,7 @@ class PokemonIndex extends React.Component{
         ))
         }
 
-
+        
       </ul>
 
 
